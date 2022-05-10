@@ -54,6 +54,7 @@ There are a few limitations to this project which we discovered as we progressed
 ## Acknowledgements
 **Data Source:** 
   Wall Street Journal Data & US Department of Education College Data 
+  
 **Project Team:**
 Hannah Baucom, Nick Biancuzzo, Vincent Parcelli, and Zak Zahner 
 
